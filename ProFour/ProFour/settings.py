@@ -25,7 +25,7 @@ SECRET_KEY = '%)e58ami8x6_#lpou8-k97j84s@po*o8^95g-cdu#0kx5@4ay6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [http://psingla.pythonanywhere.com/]
+ALLOWED_HOSTS = ['http://psingla.pythonanywhere.com/']
 
 
 # Application definition
